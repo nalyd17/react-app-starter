@@ -1,2 +1,3 @@
-# react-app-starter
-Starter repo for a skeleton React app w/ webpack, jest, and storybook
+### TODO
+
+Create README for react-app-starter
