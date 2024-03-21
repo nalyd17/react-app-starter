@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "Basic skeleton of a React app with typescript, webpack, jest, and storybook",
   "homepage": "https://github.com/nalyd17/react-app-starter",
-  "license": "MIT",
+  "license": "UNLICENSED",
   "devDependencies": {
     "typescript": "^5.4.3"
   }
